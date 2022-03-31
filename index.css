@@ -11,6 +11,13 @@ canvas{
   z-index: -3;
 }
 
+* {
+	font-family: font-family: 'Roboto', sans-serif;;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Lora', serif;
+}
 
 body {
 	background:
@@ -102,3 +109,7 @@ body {
 	background-color: rgba(255, 255, 255, .15);  
 	backdrop-filter: blur(5px);
 }
+
+
+.skill {
+	border-bottom: 1px solid rgba(0,0,0,0.1);
